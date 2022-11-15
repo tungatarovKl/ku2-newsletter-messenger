@@ -13,4 +13,5 @@ Function bases on request type form response - Get or Post using `switch` statem
 ## Как запустить бота?
 
 1. Ввести токен бота в config/local.toml
-2. `go run main.go -config ../../config/local.toml`
+2. `cd cmd/bot`
+3. `go run main.go -config ../../config/local.toml`
