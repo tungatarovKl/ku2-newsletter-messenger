@@ -1,0 +1,3 @@
+Env="local"
+BotToken=""
+Dsn="users.db"
